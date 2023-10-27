@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--진행바에서 진행될 부분-->
+    <item >
+        <shape android:shape="rectangle">
+            <corners android:radius="10dp"/>
+            <solid android:color="#B2CCFF"/>
+            <stroke android:color="@android:color/transparent" android:width="6dp"/>
+        </shape>
+    </item>
+</selector>
